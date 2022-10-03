@@ -10,5 +10,4 @@ Tablica ma określony rozmiar zadeklarowany wcześniej. Do listy liniowej możem
 Położenie elementu w tablicy jest przydzielone podczas kompilacji natomiast dla listy liniowej element przypisywany jest w czasie wykonywania.
 W celu usunięcia elementu z tablicy niezbędne jest wykonanie przesunięcia wszystkich elementów po nim. W liście wykonuje się to jedna komendą.
 Tablica zajmuje mniej pamięci. 
-
 2. Złożoność obliczeniowa Ο(n) – pętla wykonywana jest n razy, złożoność pamięciowa g(0).
